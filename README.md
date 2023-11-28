@@ -1,6 +1,5 @@
 # Android-10
 
-# Android-9
 ## Profil
 | Variable | Isi |
 | -------- | --- |
